@@ -7,7 +7,7 @@ This is my second project in college traffic sign recognition using the CNN algo
 Traffic Sign Recognition (TSR) is an important part of the driver support functions needed to make intelligent vehicles. The automatic system for classification of traffic signs is a critical task of an Advanced Driver Assistance Systems (ADAS) and a fundamental technique utilized as integral part to the various vehicles. The recognizable features of a traffic image are utilized for their classification. Traffic signs are designed in such a way that they contain specific shapes and colors, with some text and some symbols with high contrast to the background.
 
 **The Dataset of Python Project**
-For this project, we are using the public dataset available at Kaggle: [Traffic Signs Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/code)
+For this project, we are using the public dataset available at Kaggle: [Traffic Signs Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/code) 
 
 
 
@@ -93,4 +93,18 @@ Disadvantages
     Static image processing, this means parameters must be updated for each video with different lighting conditions
     The accuracy of the detection phase is not high, still, miss signs or detect wrong areas.
     The dataset is a little bit overfitting for classification phase.
+
+
+
+**OUTPUT**
+
+![image](https://github.com/user-attachments/assets/784d7c99-cb41-4b85-a5be-59128bb95b16)
+
+![image](https://github.com/user-attachments/assets/42a5ad58-a516-4f30-9bda-20863549b7af)
+
+![image](https://github.com/user-attachments/assets/35491259-8290-4a58-a241-e8cae4f2af68)
+
+![image](https://github.com/user-attachments/assets/b12e7e53-fba1-4b03-ab14-ce9e8299e6e2)
+
+
 
