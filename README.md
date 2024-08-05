@@ -9,6 +9,9 @@ Traffic Sign Recognition (TSR) is an important part of the driver support functi
 **The Dataset of Python Project**
 For this project, we are using the public dataset available at Kaggle: [Traffic Signs Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/code)
 
+
+
+
 **Dataset structure**
 
 The dataset are divided as follow :
@@ -79,3 +82,15 @@ The 43 different classes are :
     40, Roundabout mandatory
     41, End of no passing
     42, End of no passing by vehicles over 3.5 metric tons
+
+
+**Installation**
+    python main.py
+
+
+Disadvantages
+
+    Static image processing, this means parameters must be updated for each video with different lighting conditions
+    The accuracy of the detection phase is not high, still, miss signs or detect wrong areas.
+    The dataset is a little bit overfitting for classification phase.
+
